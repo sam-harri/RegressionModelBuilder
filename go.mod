@@ -1,3 +1,3 @@
-module samy/snippetbox
+module samy/regmodbuilder
 
 go 1.19
