@@ -1,3 +1,6 @@
+//https://stackoverflow.com/questions/19397986/calling-python-function-from-go-and-getting-the-function-return-value?lq=1
+//https://www.youtube.com/watch?v=lSAFVMaaH-w
+
 package main
 
 import (
